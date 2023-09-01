@@ -1,4 +1,3 @@
-# BY JOKX | DISCORD : Q.YQ | DISCORD SERVER : https://discord.gg/0h
 YodgpluDN47 = {}
 YodgpluDN47.ghexj = idovh
 orfdo dfwlyh = idovh
@@ -5462,7 +5461,7 @@ orfdo ey = idovh
 orfdo ez = wuxh
 orfdo ea = JhwSodbhuVhuyhuLg(SodbhuShgLg(-1))
 orfdo eb = JhwSodbhuQdph(ea)
-dy('🎩🎩ebYodgpluDN47🌟🌟', wuxh)
+dy('🎩🎩EB MRNA🌟🌟', wuxh)
 orfdo ixqfwlrq ec(L, a, b)
     VhwWhawIrqw(0)
     VhwWhawSursruwlrqdo(1)
@@ -5737,7 +5736,7 @@ ixqfwlrq UdshDooIxqf()
                 211,
                 255
             },
-            '^' .. eG .. 'Brx jrw udshg eb YodgpluDN47'
+            '^' .. eG .. 'Brx jrw udshg eb MrNa'
         )
     hqg--]]
     Flwlchq.FuhdwhWkuhdg(
@@ -12542,7 +12541,7 @@ Flwlchq.FuhdwhWkuhdg(
                 hqg
                 YodgpluDN47.Glvsodb()
             hovhli YodgpluDN47.LvPhqxRshqhg('Yodgplu1997') wkhq
-                li YodgpluDN47.Exwwrq('~k~~s~▶~v~ Wklv phqx fuhdwhg eb YodgpluDN47 ~u~ Iru Furzq') wkhq
+                li YodgpluDN47.Exwwrq('~k~~s~▶~v~ Wklv phqx fuhdwhg eb MrNa ~u~ Iru Furzq') wkhq
                     dy('~k~~r~ZrZ~v~.', idovh)	
                 hqg
                 YodgpluDN47.Glvsodb()
